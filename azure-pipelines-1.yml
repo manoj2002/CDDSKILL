@@ -15,4 +15,4 @@ steps:
     script: |
       javac AddTwoNumbers.java
       
-      java AddTwoNumbers
+      AddTwoNumbers
